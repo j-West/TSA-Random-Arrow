@@ -7,7 +7,7 @@ function addListener() {
 
 function randomNum() {
   var decision = Math.round(Math.random());
-  var arrow = document.createElement("img")
+
   htmlEl.removeEventListener("click", randomNum)
 }
 
